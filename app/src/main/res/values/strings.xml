@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Design-Component</string>
+    <string name="room_other">ห้องกระทู้</string>
+    <string name="edit">แก้ไข</string>
+    <string name="room_pinned">ห้องโปรด</string>
+</resources>
